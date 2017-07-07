@@ -1,0 +1,28 @@
+{
+    "author": "clement.lan@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "spotlist",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "spotlist",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "emery"
+        ],
+        "uuid": "5491df8b-7450-46a4-b4c2-ed3c10d38476",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
