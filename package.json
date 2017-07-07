@@ -4,22 +4,15 @@
     "keywords": [],
     "name": "spotlist",
     "pebble": {
-        "capabilities": [
-            "configurable"
-        ],
-        "displayName": "spotlist",
+        "displayName": "SpotList",
         "enableMultiJS": true,
         "messageKeys": [],
-        "projectType": "rocky",
+        "projectType": "native",
         "resources": {
             "media": []
         },
         "sdkVersion": "3",
-        "targetPlatforms": [
-            "basalt",
-            "emery"
-        ],
-        "uuid": "5491df8b-7450-46a4-b4c2-ed3c10d38476",
+        "uuid": "3ef8524d-6493-49af-b014-90243f5fba61",
         "watchapp": {
             "watchface": false
         }
