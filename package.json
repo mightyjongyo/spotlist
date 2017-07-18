@@ -13,13 +13,24 @@
         ],
         "projectType": "native",
         "resources": {
-            "media": []
+            "media": [
+                {
+                    "file": "images/spotify.png",
+                    "menuIcon": true,
+                    "name": "Spotify25x25",
+                    "targetPlatforms": [
+                        "basalt",
+                        "chalk",
+                        "emery"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
         },
         "sdkVersion": "3",
         "targetPlatforms": [
             "basalt",
             "chalk",
-            "diorite",
             "emery"
         ],
         "uuid": "3ef8524d-6493-49af-b014-90243f5fba61",
